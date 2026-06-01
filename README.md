@@ -43,5 +43,5 @@ Del flyer + perfil de LinkedIn (`Profile.pdf`):
   Hospital Zonal de Agudos General Manuel Belgrano; CRIBE Rehabilitación Integral.
 - Servicios: patologías traumatológicas, patologías reumatológicas, confección de férulas,
   tratamiento integral y personalizado.
-- Contacto: +54 11 5635-1203 · mariasolruibal@hotmail.com
+- Contacto: +54 11 5635-1203
 - Ubicación: Florida, Vicente López
