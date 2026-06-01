@@ -73,9 +73,11 @@ h1, h2, h3 { font-family: "Cormorant Garamond", Georgia, serif; line-height: 1.0
   background: var(--clay); color: var(--white);
   padding: 1rem 1.6rem; border-radius: 18px;
   box-shadow: var(--shadow); text-align: center;
+  text-decoration: none; transition: transform .2s, background .2s;
 }
+.hero__badge:hover { transform: translateY(-3px); background: var(--clay-dark); }
 .hero__badge-label { display: block; font-size: .8rem; letter-spacing: 1.5px; text-transform: uppercase; opacity: .85; }
-.hero__badge-phone { color: var(--white); text-decoration: none; font-size: 1.2rem; font-weight: 700; }
+.hero__badge-phone { display: block; color: var(--white); font-size: 1.2rem; font-weight: 700; }
 
 /* BUTTONS */
 .btn { display: inline-block; padding: .85rem 1.8rem; border-radius: 100px; font-weight: 700; text-decoration: none; font-size: .95rem; transition: transform .2s, box-shadow .2s, background .2s; }
